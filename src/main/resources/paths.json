@@ -1,0 +1,22 @@
+{
+  "vanilla": {
+    "name": "Vanilla",
+    "paths": [
+      "~/.minecraft/",
+      "~/AppData/Roaming/.minecraft/",
+      "~/Library/Application Support/minecraft/"
+    ]
+  },
+  "prismlauncher": {
+    "name": "PrismLauncher",
+    "paths": [
+      "~/.local/share/PrismLauncher/"
+    ]
+  },
+  "prismlauncher_flatpak": {
+    "name": "PrismLauncher (Flatpak)",
+    "paths": [
+      "~/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/"
+    ]
+  }
+}
